@@ -178,3 +178,15 @@ button{
 .register p a:hover{
     text-decoration: underline;
 }
+footer{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255,255,255,.2);
+    height: auto;
+    width: 100vw;
+    padding-top: 10px;
+    color: #fff;
+}
